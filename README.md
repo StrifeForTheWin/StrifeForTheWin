@@ -10,7 +10,7 @@
 
 ###
 
-[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimeazing&count_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Barbara's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrifeForTheWin&count_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
