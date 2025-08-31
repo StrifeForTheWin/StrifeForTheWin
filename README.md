@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, There I am Barbara Bloemendal</h1>
 <h3 align="center">I'm a Student Technische Informatica</h3>
 
