@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, There I am Barbara</h1>
-<h3 align="center">Student Technische Informatica</h3>
+<h1 align="center">Hi, There I am Barbara Bloemendal</h1>
+<h3 align="center">I'm a Student Technische Informatica</h3>
 
 ## about me
-💻Improving my skills in **C++** 
-🤔Interested in **Electronics and Hardware**  
-🔎Currently Working with **ESP32**
+💻Improving my skills in **C++**   
+🤔Interested in **Electronics and Hardware**    
+🔎Currently Working with **ESP32**  
 
 ###
 
